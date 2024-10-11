@@ -14,6 +14,10 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Visit-X
+https://stream.visit-x.tv/vxtv/ngrp:live_all/chunklist_w1154639107_b981072.m3u8
+#EXTINF:-1 group-title="成人",Exxxtica
+http://31.148.48.15/O-la-la/index.m3u8
 
 #EXTINF:-1 ,VENUS
 http://38.41.8.1:8000/play/a07w
