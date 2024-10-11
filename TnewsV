@@ -1,4 +1,33 @@
-arirang Korea,
+#EXTINF:-1,BBC ONE
+http://41.205.93.154/BBCONE/index.m3u8
+#EXTINF:-1,BBC TWO
+http://41.205.93.154/BBCTWO/index.m3u8
+#EXTINF:-1,BBC THREE
+http://41.205.93.154/BBCTHREE/index.m3u8
+#EXTINF:-1,FOX Live Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,NHK WORLD JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,euro news
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1,NEWS MAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1,TAIWAN PLUS
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1,CBS Mixible (ET)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1,arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-卡塔尔,
+#EXTINF:-1,卡塔尔
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,REELZ
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+
+
