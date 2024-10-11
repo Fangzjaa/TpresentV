@@ -1,0 +1,35 @@
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,TV8 [12]
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1,Fight格斗
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,Russia Today Documentary 俄罗斯
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1,HGTV家居
+http://143.244.60.97/HGTV/index.m3u8
+#EXTINF:-1,NBC Chicago
+https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+#EXTINF:-1,NBC Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1,tbs 美国
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1,TNT 美国
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1,MUTV 曼联足球俱乐部
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1,Real Madrid 皇马足球俱乐部
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1,H&C 赛马
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,KBS WORLD 韩国
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1,Real Wild 新西兰
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
