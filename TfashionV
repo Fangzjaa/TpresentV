@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_25
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:-1 ,Unknown_27
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 ,Unknown_32
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 ,Unknown_33
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 ,Unknown_42
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 ,Unknown_43
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 ,Unknown_47
+http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_48
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
