@@ -4,9 +4,10 @@ http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,GREAT action
+http://185.19.191.2:8090/GreatAction/index.m3u8
+#EXTINF:-1,New Movies (Samsung)
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1,movie_4
+https://pull.kktv8.com/livekktv/128600025.flv
+
